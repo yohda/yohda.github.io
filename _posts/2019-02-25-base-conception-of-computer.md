@@ -1,6 +1,5 @@
 ---
 layout: post
-title: 1. 컴퓨터 동작의 기본 개념
 category: computer architecture 
 ---
 # 1. 컴퓨터 동작의 기본 개념
